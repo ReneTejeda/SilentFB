@@ -1,5 +1,6 @@
 # SilentFB
-Hide facebook &amp; facebook messenger online status and last seen and stop playing videos automatically for (iOS sideload)
+Hide facebook &amp; facebook messenger online status and last seen. for (iOS sideload)
+And no more playing videos automatically!
 
 <b>How to use (Precompiled - Sideload)</b>
 
