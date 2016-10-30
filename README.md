@@ -19,3 +19,7 @@ For iOS !
 <b>How to use (Precompiled - MobileSubstrate)</b>
 
 Just install the .deb with iFile(download it from cydia)
+
+
+
+Tweak no need any option to configure! i'm too lazy for that :(
